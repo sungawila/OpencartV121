@@ -1,0 +1,14 @@
+2025-09-05 16:11:21 INFO  TC001_AccountRegistrationTest:16 - Starting TC001_AccountRegistrationTest
+2025-09-05 16:11:22 INFO  TC001_AccountRegistrationTest:22 - Clicked on My Account link
+2025-09-05 16:11:22 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link
+2025-09-05 16:11:22 INFO  TC001_AccountRegistrationTest:29 - Providing user details
+2025-09-05 16:11:23 INFO  TC001_AccountRegistrationTest:45 - Validating expected message
+2025-09-05 16:11:23 INFO  TC001_AccountRegistrationTest:67 - Finished TC001_AccountRegistrationTest
+2025-09-05 16:11:26 INFO  TC002_LoginTest:18 - Starting TC002_LoginTest
+2025-09-05 16:11:28 INFO  TC002_LoginTest:40 - Finished TC002_LoginTest
+2025-09-05 16:19:35 INFO  TC001_AccountRegistrationTest:16 - Starting TC001_AccountRegistrationTest
+2025-09-05 16:19:35 INFO  TC001_AccountRegistrationTest:22 - Clicked on My Account link
+2025-09-05 16:19:35 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link
+2025-09-05 16:19:35 INFO  TC001_AccountRegistrationTest:29 - Providing user details
+2025-09-05 16:19:36 INFO  TC001_AccountRegistrationTest:45 - Validating expected message
+2025-09-05 16:19:36 ERROR TC001_AccountRegistrationTest:53 - Test failed
